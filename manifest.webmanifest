@@ -1,0 +1,46 @@
+{
+ "name": "The Guide to Banjo Mastery",
+ "short_name": "Banjo Mastery",
+ "id": ".",
+ "start_url": ".",
+ "lang": "en",
+ "description": "An interactive five-string banjo method \u2014 open G, the 5th string, chords and the three moveable forms, Scruggs rolls and clawhammer, scales, the capo and tunes you can hear and practise.",
+ "display": "standalone",
+ "orientation": "any",
+ "categories": [
+  "education",
+  "music"
+ ],
+ "background_color": "#f6efe0",
+ "theme_color": "#f6efe0",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ],
+ "shortcuts": [
+  {
+   "name": "Learn",
+   "url": "./#learn"
+  },
+  {
+   "name": "Right Hand",
+   "url": "./#righthand"
+  },
+  {
+   "name": "Scales",
+   "url": "./#scales"
+  },
+  {
+   "name": "Song Sketchpad",
+   "url": "./#sketch"
+  }
+ ]
+}
